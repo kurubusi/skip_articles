@@ -1,7 +1,7 @@
 # kurubusi.skip_articles
 
 ## Overview
-It skips.
+It skips to a conclusion. 
 
 ## Installation
 
